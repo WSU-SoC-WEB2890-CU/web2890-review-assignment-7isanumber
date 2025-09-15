@@ -1,11 +1,11 @@
 // THEME COLORS 
-$teal-dark:    #0d503c;
-$teal-light:  #20c997;
-$orange: #fd7e14;
-$footer: #151414;
+$red-dark:    #C50D0D;
+$red-light:  #F44E4E;
+$blue: #340DC5;
+$footer: #141111;
 
-$primary: $teal-dark;
-$secondary: $teal-light;
+$primary: $red-dark;
+$secondary: $red-light;
 
 // ACCORDION OVERRIDES
 $accordion-padding-y: 1.5rem;
@@ -17,3 +17,4 @@ $accordion-button-active-icon:  url("data:image/svg+xml,<svg xmlns='http://www.w
 
 @import "bootstrap/scss/bootstrap.scss";
 @import "bootstrap-icons/font/bootstrap-icons.scss"
+
